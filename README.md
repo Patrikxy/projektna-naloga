@@ -3,7 +3,7 @@
 ============================
 
 
-Analiziral bom vsa študetnska dela, ki so na voljo v ljubljani/okolici na strani [Študetnski servis](https://www.studentski-servis.com/ess/prosta_dela.php)
+Analiziral bom vsa študentska dela, ki so na voljo v Ljubljani/okolici na strani [Študetnski servis](https://www.studentski-servis.com/ess/prosta_dela.php)
 
 Za vsako ponudbo bom zajel:
 * urno postavko
@@ -16,5 +16,5 @@ Za vsako ponudbo bom zajel:
 Delovne hipoteze:
 * Katera dela so najbolj dobičkonosna?
 * Ali so dela, kjer zahtevajo določeno predznanje oz. izkušnje, bolje plačana?
-*  
-*
+* Strežba v centru Ljubljane je bolje plačana kot v okolici Ljubljane
+* Dela, kjer zahtevajo izpit kategorije B, so bolje plačana (promocije, razvoz, ...)?
