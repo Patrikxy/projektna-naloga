@@ -21,4 +21,4 @@ Delovne hipoteze:
 
 
 
-Dodane datoteke vsebuje program, ki zajame spletne strani in le te shrani, primer html-ja za katerega sem napisal regularne izraze in primer spremenjenega html-ja, na katerem žal ne delujejo. Priložil sem tudi zahtevani .csv in .json datoteki.
+Dodane datoteke vsebujejo program, ki zajame spletne strani in le te shrani, primer html-ja za katerega sem napisal regularne izraze in primer spremenjenega html-ja, na katerem žal ne delujejo. Priložil sem tudi zahtevani .csv in .json datoteki.
