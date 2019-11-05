@@ -18,3 +18,7 @@ Delovne hipoteze:
 * Ali so dela, kjer zahtevajo določeno predznanje oz. izkušnje, bolje plačana?
 * Strežba v centru Ljubljane je bolje plačana kot v okolici Ljubljane
 * Dela, kjer zahtevajo izpit kategorije B, so bolje plačana (promocije, razvoz, ...)?
+
+
+
+Dodane datoteke vsebuje program, ki zajame spletne strani in le te shrani, primer html-ja za katerega sem napisal regularne izraze in primer spremenjenega html-ja, na katerem žal ne delujejo. Priložil sem tudi zahtevani .csv in .json datoteki.
